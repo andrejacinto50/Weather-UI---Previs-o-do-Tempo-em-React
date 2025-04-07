@@ -20,4 +20,9 @@
 -Gere sua API Key
 -Copie a chave
  4. Adicione sua API Key no projeto:  const apiKey = "SUA_API_KEY_AQUI";
- 5. 5. Rode o projeto  npm run dev  🛠️ Tecnologias Utilizadas:  React  TailwindCSS  Framer Motion  Axios  OpenWeatherMap API
+ 5. 5. Rode o projeto  npm run dev
+       🛠️ Tecnologias Utilizadas:
+       act  TailwindCSS
+       Framer Motion
+       Axios
+       OpenWeatherMap API
