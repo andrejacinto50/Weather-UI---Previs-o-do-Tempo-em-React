@@ -11,7 +11,7 @@
  - Tela de loading personalizada
   🚀 Como executar o projeto
  1. Clone o repositório:
- 2. git clone https://github.com/seu-usuario/weather-ui-react.git
+ 2. git clone (https://github.com/andrejacinto50/Weather-UI---Previs-o-do-Tempo-em-React.git)
  3. cd weather-ui-react
  4.  Instale as dependências: npm install
  5.  Crie sua API Key gratuita:
